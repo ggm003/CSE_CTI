@@ -2,3 +2,5 @@ Here is a line of text
 
 This has been a long day!
 Looking forward to the VR room.
+
+This is a test file.
